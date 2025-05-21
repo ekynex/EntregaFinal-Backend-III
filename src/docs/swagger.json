@@ -1,0 +1,21 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Entrega Final - API de Usuarios",
+    "version": "1.0.0",
+    "description": "Documentación Swagger para el módulo Users"
+  },
+  "paths": {
+    "/api/users": {
+      "get": {
+        "summary": "Obtener todos los usuarios",
+        "tags": ["Users"],
+        "responses": {
+          "200": {
+            "description": "Lista de usuarios"
+          }
+        }
+      }
+    }
+  }
+}
