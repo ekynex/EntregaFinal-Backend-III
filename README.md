@@ -2,6 +2,7 @@
 
 ## Descripción
 Proyecto backend dockerizado con documentación y tests funcionales.
+Este proyecto es una API REST construida con Node.js, Express y MongoDB, documentada con Swagger y testeada con Jest y Supertest.
 
 ## Instrucciones
 
